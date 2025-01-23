@@ -11,7 +11,7 @@
   <h2 data-aos="fade-up" data-aos-delay="100">Website Sistem Informasi Geografis</h2>
   <p data-aos="fade-up" data-aos-delay="200">Yang membantu dalam Mengakses data Geografis Secara Efektif dan Efisien</p>
   <div data-aos="fade-up" data-aos-delay="300">
-    <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8" class="glightbox pulsating-play-btn"></a>
+    <a href="" class="glightbox pulsating-play-btn"></a>
   </div>
 </div>
 
